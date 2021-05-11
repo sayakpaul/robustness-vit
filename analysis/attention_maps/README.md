@@ -1,0 +1,1 @@
+This directory provides a Colab Notebook. No local setup is needed for this one. Simply open up the notebook in Colab and follow the instructions specified inside it. `CAMs.ipynb` provides the Grad-CAM results (for both BiT and ViT) and `Visualizing_ViT.ipynb` provides the attention maps for ViT. 

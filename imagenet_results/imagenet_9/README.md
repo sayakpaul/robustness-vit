@@ -1,0 +1,1 @@
+This directory provides a Colab Notebook. No local setup is needed for this one. Simply open up the notebook in Colab and follow the instructions specified inside it. 

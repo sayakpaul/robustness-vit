@@ -1,0 +1,4 @@
+tensorflow==2.4.1
+jax
+flax
+ml-collections

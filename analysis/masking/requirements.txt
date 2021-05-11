@@ -1,0 +1,5 @@
+tensorflow==2.4.1
+tensorflow_hub
+albumentations
+imutils
+opencv-contrib-python
