@@ -1,4 +1,4 @@
-For this directory, a local setup is needed as well as you need to download the ImageNet-1k validation set. The structure should resemble what's specified in here - [`imagenet_results/imagenet_o/README.md`] (Link to be updated).
+For this directory, a local setup is needed as well as you need to download the ImageNet-1k validation set. The structure should resemble what's specified in here - [`imagenet_results/imagenet_o/README.md`](https://github.com/sayakpaul/robustness-vit/tree/master/imagenet_results/imagenet_o#readme).
 
 We used an [open-source implementation](https://github.com/gatheluck/FourierHeatmap) of the paper [A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/abs/1906.08988) for getting our results. So, after getting the ImageNet-1k validation set and structuring it, simply follow the instructions from that respository. For loading the BiT (m r101x3) and ViT (L-16) models with pre-trained weights we used `timm` which can be installed with `pip install timm`. The `mean` and `std` parameters should be `[0.5, 0.5, 0.5]`.
 
