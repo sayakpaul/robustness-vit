@@ -2,4 +2,4 @@ For this directory, a local setup is needed as well as you need to download the 
 
 **Additional requirments for running `CutOut_ViT.ipynb`**:
 
-First, clone this repository (https://github.com/jeonsworld/ViT-pytorch) and install the requirements specified inside the repository. Additional Python library requirements are in `requirements.txt`. 
+First, clone [this repository](https://github.com/jeonsworld/ViT-pytorch) and install the requirements specified inside the repository. Additional Python library requirements are in `requirements.txt`. 
