@@ -8,4 +8,4 @@ $ python test.py -m vit_large_patch16_224 -p motion_blur
 
 You may need to adjust the batch size and the number of GPUs according to the available infrastructure. Also, we always recorded the FRs for difficulty level 1. 
 
-We thank Dan Hendrycks for helpful discussions. Dan is the main author of the ImageNet-C dataset.
+We thank Dan Hendrycks for helpful discussions. Dan is the main author of the ImageNet-P dataset.
