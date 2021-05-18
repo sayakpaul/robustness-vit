@@ -22,7 +22,16 @@ We use Python 3.8. As for the hardware setup (when not using Colab), we use a [G
 
 ## Citation
 
-TBA
+```
+@misc{paul2021vision,
+      title={Vision Transformers are Robust Learners}, 
+      author={Sayak Paul and Pin-Yu Chen},
+      year={2021},
+      eprint={2105.07581},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Acknowledgements
 
