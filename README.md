@@ -16,6 +16,8 @@ All the results related to the ImageNet datasets (ImageNet-C, ImageNet-P, ImageN
 
 [`misc/`](https://github.com/sayakpaul/robustness-vit/tree/master/misc) directory contains the code for visualizing frequency artifacts inside images. 
 
+For any questions, please open an issue and tag @sayakpaul.
+
 ## About our dev environment
 
 We use Python 3.8. As for the hardware setup (when not using Colab), we use a [GCP AI Platform Notebook](https://cloud.google.com/ai-platform-notebooks) with 4 V100s, 60 GBs of RAM with 16 vCPUs (`n1-standard-16` [machine type](https://cloud.google.com/compute/docs/machine-types)).
