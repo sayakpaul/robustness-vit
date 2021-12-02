@@ -1,6 +1,6 @@
 # Vision Transformers are Robust Learners
 
-This repository contains the code for the paper [Vision Transformers are Robust Learners](https://arxiv.org/abs/2105.07581) by Sayak Paul<sup>\*</sup> and Pin-Yu Chen<sup>\*</sup>.
+This repository contains the code for the paper [Vision Transformers are Robust Learners](https://arxiv.org/abs/2105.07581) by Sayak Paul<sup>\*</sup> and Pin-Yu Chen<sup>\*</sup> (AAAI 2022).
 
 <sup>\*</sup>Equal contribution.
 
