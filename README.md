@@ -20,18 +20,17 @@ For any questions, please open an issue and tag @sayakpaul.
 
 ## About our dev environment
 
-We use Python 3.8. As for the hardware setup (when not using Colab), we use a [GCP AI Platform Notebook](https://cloud.google.com/ai-platform-notebooks) with 4 V100s, 60 GBs of RAM with 16 vCPUs (`n1-standard-16` [machine type](https://cloud.google.com/compute/docs/machine-types)).
+We use Python 3.8. As for the hardware setup (when not using Colab), we use [GCP Vertex AI Workbench](https://cloud.google.com/vertex-ai-workbench) with
+4 V100s, 60 GBs of RAM with 16 vCPUs (`n1-standard-16` [machine type](https://cloud.google.com/compute/docs/machine-types)).
 
 ## Citation
 
 ```
-@misc{paul2021vision,
-      title={Vision Transformers are Robust Learners}, 
-      author={Sayak Paul and Pin-Yu Chen},
-      year={2021},
-      eprint={2105.07581},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{paul2021vision,
+  title={Vision Transformers are Robust Learners},
+  author={Sayak Paul and Pin-Yu Chen},
+  journal={AAAI},
+  year={2022}
 }
 ```
 
