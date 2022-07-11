@@ -5,6 +5,8 @@ Sayak Paul<sup>\*</sup> and Pin-Yu Chen<sup>\*</sup> (AAAI 2022).
 
 <sup>\*</sup>Equal contribution.
 
+**Update July 2022**: The publication is now available as a part of the [AAAI-22 proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/20103). It's also archived in the [IBM Research repository](https://research.ibm.com/publications/vision-transformers-are-robust-learners).
+
 ### Abstract
 
 Transformers, composed of multiple self-attention layers, hold strong promises toward a generic learning primitive applicable to
@@ -42,7 +44,7 @@ We use Python 3.8. As for the hardware setup (when not using Colab), we use [GCP
 @article{paul2021vision,
   title={Vision Transformers are Robust Learners},
   author={Sayak Paul and Pin-Yu Chen},
-  journal={AAAI},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2022}
 }
 ```
