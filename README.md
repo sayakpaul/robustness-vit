@@ -5,6 +5,8 @@ Sayak Paul<sup>\*</sup> and Pin-Yu Chen<sup>\*</sup> (AAAI 2022).
 
 <sup>\*</sup>Equal contribution.
 
+**Update December 2022**: We won the [ML Research Spotlight from Kaggle](https://www.kaggle.com/discussions/general/370095).
+
 **Update July 2022**: The publication is now available as a part of the [AAAI-22 proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/20103). It's also archived in the [IBM Research repository](https://research.ibm.com/publications/vision-transformers-are-robust-learners).
 
 ### Abstract
